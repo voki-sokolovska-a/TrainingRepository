@@ -1,0 +1,9 @@
+diff a/DailyBonus.xml b/DailyBonus.xml	(rejected hunks)
+@@ -18,6 +18,7 @@
+ 			<Reward day="7" type="ProtectLives" count="60"/>
+ 			<Reward day="7" type="BombAndLineBoost" count="1"/>
+ =======
++			<Reward day="1" type="MultiplyFishBoost" count="1"/>
+ 			<Reward day="2" type="BombAndLineBoost" count="1"/>
+ 			<Reward day="3" type="LightningBoost" count="1"/>
+ 			<Reward day="4" type="MultiplyFishBoost" count="1"/>
